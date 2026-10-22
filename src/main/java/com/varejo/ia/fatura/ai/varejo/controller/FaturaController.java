@@ -1,7 +1,7 @@
-package com.varejo.ia.fatura_ai_varejo.controller;
+package com.varejo.ia.fatura.ai.varejo.controller;
 
-import com.varejo.ia.fatura_ai_varejo.dto.FaturaResponseDTO;
-import com.varejo.ia.fatura_ai_varejo.service.ExtracaoFaturaService;
+import com.varejo.ia.fatura.ai.varejo.dto.FaturaResponseDTO;
+import com.varejo.ia.fatura.ai.varejo.service.ExtracaoFaturaService;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

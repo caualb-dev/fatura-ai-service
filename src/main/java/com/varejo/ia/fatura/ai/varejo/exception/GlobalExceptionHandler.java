@@ -1,6 +1,6 @@
-package com.varejo.ia.fatura_ai_varejo.exception;
+package com.varejo.ia.fatura.ai.varejo.exception;
 
-import com.varejo.ia.fatura_ai_varejo.dto.ErroRespostaDTO;
+import com.varejo.ia.fatura.ai.varejo.dto.ErroRespostaDTO;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

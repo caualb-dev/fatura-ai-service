@@ -1,8 +1,10 @@
-package com.varejo.ia.fatura_ai_varejo.dto;
+package com.varejo.ia.fatura.ai.varejo.dto;
 
 import java.math.BigDecimal;
 
-
+/**
+ * Representa um item/produto individual extraído do documento fiscal.
+ */
 public record ItemFaturaDTO(
         String codigo,
         String descricao,

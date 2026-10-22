@@ -1,4 +1,4 @@
-package com.varejo.ia.fatura_ai_varejo;
+package com.varejo.ia.fatura.ai.varejo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

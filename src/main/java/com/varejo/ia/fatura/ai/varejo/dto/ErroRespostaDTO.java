@@ -1,4 +1,4 @@
-package com.varejo.ia.fatura_ai_varejo.dto;
+package com.varejo.ia.fatura.ai.varejo.dto;
 
 import java.time.Instant;
 

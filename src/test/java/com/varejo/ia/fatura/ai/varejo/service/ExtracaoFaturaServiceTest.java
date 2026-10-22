@@ -1,8 +1,8 @@
-package com.varejo.ia.fatura_ai_varejo.service;
+package com.varejo.ia.fatura.ai.varejo.service;
 
-import com.varejo.ia.fatura_ai_varejo.controller.FaturaController;
-import com.varejo.ia.fatura_ai_varejo.dto.FaturaResponseDTO;
-import com.varejo.ia.fatura_ai_varejo.dto.ItemFaturaDTO;
+import com.varejo.ia.fatura.ai.varejo.controller.FaturaController;
+import com.varejo.ia.fatura.ai.varejo.dto.FaturaResponseDTO;
+import com.varejo.ia.fatura.ai.varejo.dto.ItemFaturaDTO;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.http.HttpStatus;

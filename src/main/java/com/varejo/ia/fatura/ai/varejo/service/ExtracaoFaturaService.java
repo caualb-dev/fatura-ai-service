@@ -1,4 +1,4 @@
-package com.varejo.ia.fatura_ai_varejo.service;
+package com.varejo.ia.fatura.ai.varejo.service;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -9,7 +9,7 @@ import com.google.genai.types.GenerateContentResponse;
 import com.google.genai.types.Part;
 import com.google.genai.types.Schema;
 import com.google.genai.types.Type;
-import com.varejo.ia.fatura_ai_varejo.dto.FaturaResponseDTO;
+import com.varejo.ia.fatura.ai.varejo.dto.FaturaResponseDTO;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;

@@ -28,7 +28,7 @@ No setor de varejo e grandes redes de supermercados:
 ## 📂 3. Estrutura do Projeto
 
 ```text
-src/main/java/com/varejo/ia/fatura_ai_varejo
+src/main/java/com/varejo/ia/fatura/ai/varejo
 ├── controller
 │   └── FaturaController.java          # Endpoints REST (/api/v1/faturas)
 ├── dto
